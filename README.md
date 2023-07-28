@@ -1,5 +1,3 @@
-# Darcula
-
 ## solaSys Light
 A light Python colour theme extension for Visual Studio Code that is not too harsh on the eyes.
 
