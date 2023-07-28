@@ -1,16 +1,15 @@
-# solasys-light README
+# Darcula
 
-## Working with Markdown
+## solaSys Light
+A light Python colour theme extension for Visual Studio Code that is not too harsh on the eyes.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![solaSys Light](Example.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## Description
+Mainly focused on Python development, though works nicely for other languages. Please report any issues or requests for other languages as I have not tested it thoroughly with anything other than Python.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Enable
+When installation completes, select solaSys Light as your color theme (Preferences → Workbench: Color Theme → solaSys Light)
 
-**Enjoy!**
+![Enable](Enable.png)

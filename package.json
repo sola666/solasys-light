@@ -2,8 +2,12 @@
   "name": "solasys-light",
   "displayName": "solaSys Light",
   "description": "A light colour theme for VS Code",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "so-LA",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sola666/solasys-light"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
