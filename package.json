@@ -1,0 +1,22 @@
+{
+  "name": "solasys-light",
+  "displayName": "solaSys Light",
+  "description": "A light colour theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "so-LA",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "solaSys Light",
+        "uiTheme": "vs",
+        "path": "./themes/solaSys Light-color-theme.json"
+      }
+    ]
+  }
+}
